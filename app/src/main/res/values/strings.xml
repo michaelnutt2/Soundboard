@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Soundboard</string>
+    <string name="victory">Victory</string>
+    <string name="capitalism">Capitalism</string>
+    <string name="longtime">Long Time</string>
+    <string name="alert">Alert</string>
+    <string name="birdbird">Bird Bird</string>
+    <string name="fatherspace">Father Space</string>
+    <string name="glassshark">Glass Shark</string>
+    <string name="yeahthelemons">Yeah the Lemons</string>
+    <string name="takethelemons">Take the Lemons</string>
+    <string name="science">Science</string>
+    <string name="potato">Potato</string>
+    <string name="shrimpheaven">Shrimp Heaven</string>
+    <string name="soundboard">Super Cool Soundboard</string>
 </resources>
